@@ -6,6 +6,7 @@
 		"origins:tailwind",
 		"origins:lay_eggs",
 		"origins:vegetarian"
+		"origins:feather_armor"
 	],
 	"icon": {
 		"item": "minecraft:feather"
