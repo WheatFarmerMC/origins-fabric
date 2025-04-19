@@ -1,7 +1,7 @@
 {
-    "type": "origins:action_when_hit",
-    "action": {
-        "type": "origins:add_velocity",
-        "z": "2"
-    }
+  "type": "origins:action_when_hit",
+  "action": {
+    "type": "origins:add_velocity",
+    "z": "2"
+  }
 }
