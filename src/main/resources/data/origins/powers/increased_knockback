@@ -1,0 +1,6 @@
+{
+    "type": "origins:actor_action",
+    "action": {
+        "type": "origins:set_on_fire",
+        "duration": 5
+}
