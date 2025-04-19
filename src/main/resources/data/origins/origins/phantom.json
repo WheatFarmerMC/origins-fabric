@@ -5,7 +5,7 @@
 		"origins:phasing",
 		"origins:burn_in_daylight",
 		"origins:hunger_over_time",
-		"origins:fragile",
+		"origins:less_health",
 		"origins:phantomize_overlay"
 	],
 	"icon": {
