@@ -1,7 +1,7 @@
 {
-    "type": "origins:actor_action",
+    "type": "origins:action_when_hit",
     "action": {
-        "type": "origins:set_on_fire",
-        "duration": 5
+        "type": "origins:add_velocity",
+        "z": "2"
     }
 }
