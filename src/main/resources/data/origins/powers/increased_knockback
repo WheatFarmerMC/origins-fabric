@@ -3,4 +3,5 @@
     "action": {
         "type": "origins:set_on_fire",
         "duration": 5
+    }
 }
